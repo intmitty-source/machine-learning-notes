@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(1)线性回归、logistic回归和一般回归.pdf"
+                "file": "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "(1)线性回归、logistic回归和一般回归"
+              "title": "cs229-Convex Optimization Overview2"
             }
           }
         ]
@@ -195,10 +195,10 @@
   "lastOpenFiles": [
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（下）/(9)在线学习.pdf",
+    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(1)线性回归、logistic回归和一般回归.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(4)支持向量机SVM（下）.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(3)支持向量机SVM（上）.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(2)判别模型、生成模型与朴素贝叶斯方法.pdf",
-    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(1)线性回归、logistic回归和一般回归.pdf",
     "未命名.md"
   ]
 }
