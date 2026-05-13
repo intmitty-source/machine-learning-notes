@@ -170,6 +170,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "42ae532ce76b3ed1",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
@@ -181,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "claudian:Open Claudian": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -191,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4da99d2dfd5708a6",
+  "active": "b978b102bd02e553",
   "lastOpenFiles": [
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（下）/(9)在线学习.pdf",
