@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778673418670-eq3cdapxz",
+  "providerId": "claude",
+  "title": "特征选择完全指南 — 通俗总结",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778673418670,
+  "updatedAt": 1778673520217,
+  "lastResponseAt": 1778673520217,
+  "sessionId": "4985ee32-395e-458c-8f58-adc5145d2077",
+  "providerState": {
+    "providerSessionId": "4985ee32-395e-458c-8f58-adc5145d2077"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 309,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40384,
+    "contextWindow": 200000,
+    "contextTokens": 40693,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

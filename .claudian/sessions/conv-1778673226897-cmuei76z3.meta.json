@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778673226897-cmuei76z3",
+  "providerId": "claude",
+  "title": "特征选择方法速查",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778673226900,
+  "updatedAt": 1778673486812,
+  "lastResponseAt": 1778673261360,
+  "sessionId": "feb85036-ef46-4319-a1c4-e9b1a4276093",
+  "providerState": {
+    "providerSessionId": "feb85036-ef46-4319-a1c4-e9b1a4276093"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 992,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34432,
+    "contextWindow": 200000,
+    "contextTokens": 35424,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

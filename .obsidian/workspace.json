@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a07714b7306401f",
+        "id": "daac63f938b9bb85",
         "type": "tabs",
         "children": [
           {
-            "id": "4da99d2dfd5708a6",
+            "id": "53d2c556fc57c105",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "cs229-Convex Optimization Overview2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -182,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,14 +200,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b978b102bd02e553",
+  "active": "53d2c556fc57c105",
   "lastOpenFiles": [
+    "笔记/特征选择完全指南 — 通俗总结.md",
+    "笔记/特征选择方法速查.md",
+    "笔记/特征选择完全指南.md",
+    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview2.pdf",
+    "笔记",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（下）/(9)在线学习.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(1)线性回归、logistic回归和一般回归.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(4)支持向量机SVM（下）.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(3)支持向量机SVM（上）.pdf",
-    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(2)判别模型、生成模型与朴素贝叶斯方法.pdf",
-    "未命名.md"
+    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(2)判别模型、生成模型与朴素贝叶斯方法.pdf"
   ]
 }
