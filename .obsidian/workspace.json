@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "daac63f938b9bb85",
+        "id": "d85116fed6371d61",
         "type": "tabs",
         "children": [
           {
-            "id": "53d2c556fc57c105",
+            "id": "8ec19883d726a51e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/数据处理与统计/过拟合、欠拟合、偏差与方差  菜鸟教程.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "过拟合、欠拟合、偏差与方差  菜鸟教程"
+              "title": "新标签页"
             }
           }
         ]
@@ -204,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b978b102bd02e553",
+  "active": "8ec19883d726a51e",
   "lastOpenFiles": [
-    "Clippings/数据处理与统计/损失函数与梯度  菜鸟教程.md",
+    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview.pdf",
     "Clippings/数据处理与统计/过拟合、欠拟合、偏差与方差  菜鸟教程.md",
+    "Clippings/数据处理与统计/损失函数与梯度  菜鸟教程.md",
     "Clippings/数据处理与统计/概率思维  菜鸟教程.md",
     "Clippings/数据处理与统计/统计学基础  菜鸟教程.md",
     "Clippings/数据处理与统计/训练集测试集划分  菜鸟教程.md",
@@ -234,11 +231,9 @@
     "Clippings/前向传播与反向传播  菜鸟教程.md",
     "Clippings/神经网络的基本结构  菜鸟教程.md",
     "Clippings/监督学习/机器学习算法  菜鸟教程.md",
-    "Clippings/监督学习/多元线性回归  菜鸟教程.md",
     "Clippings",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview2.pdf",
     "笔记",
-    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（下）/(9)在线学习.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(1)线性回归、logistic回归和一般回归.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(4)支持向量机SVM（下）.pdf"
