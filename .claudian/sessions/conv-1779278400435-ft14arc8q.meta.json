@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779278400435-ft14arc8q",
+  "providerId": "claude",
+  "title": "Clippings/监督学习，总结一下，写成一个文档",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1779278400435,
+  "updatedAt": 1779278671222,
+  "lastResponseAt": 1779278671222,
+  "sessionId": "95859936-fceb-44c0-adcf-282b10d7849c",
+  "providerState": {
+    "providerSessionId": "95859936-fceb-44c0-adcf-282b10d7849c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2621,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 93696,
+    "contextWindow": 200000,
+    "contextTokens": 96317,
+    "percentage": 48,
+    "contextWindowIsAuthoritative": true
+  }
+}
