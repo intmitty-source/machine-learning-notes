@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/无监督学习 – 聚类  菜鸟教程.md",
+                "file": "Clippings/数据处理与统计/过拟合、欠拟合、偏差与方差  菜鸟教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无监督学习 – 聚类  菜鸟教程"
+              "title": "过拟合、欠拟合、偏差与方差  菜鸟教程"
             }
           }
         ]
@@ -204,25 +204,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53d2c556fc57c105",
+  "active": "b978b102bd02e553",
   "lastOpenFiles": [
-    "Clippings/线性回归 (Linear Regression)  菜鸟教程.md",
-    "Clippings/无监督学习 – 聚类  菜鸟教程.md",
+    "Clippings/数据处理与统计/损失函数与梯度  菜鸟教程.md",
+    "Clippings/数据处理与统计/过拟合、欠拟合、偏差与方差  菜鸟教程.md",
+    "Clippings/数据处理与统计/概率思维  菜鸟教程.md",
+    "Clippings/数据处理与统计/统计学基础  菜鸟教程.md",
+    "Clippings/数据处理与统计/训练集测试集划分  菜鸟教程.md",
+    "Clippings/数据处理与统计/数据可视化  菜鸟教程.md",
+    "Clippings/数据处理与统计/特征工程  菜鸟教程.md",
+    "Clippings/数据处理与统计/数据清洗  菜鸟教程.md",
+    "Clippings/数据处理与统计/数据理解  菜鸟教程.md",
+    "Clippings/监督学习/分类指标  菜鸟教程.md",
+    "Clippings/数据处理与统计",
+    "Clippings/监督学习/随机森林  菜鸟教程.md",
+    "Clippings/监督学习/朴素贝叶斯  菜鸟教程.md",
+    "Clippings/监督学习/集成学习  菜鸟教程.md",
+    "Clippings/监督学习/K 近邻算法  菜鸟教程.md",
+    "Clippings/监督学习/支持向量机  菜鸟教程.md",
+    "Clippings/监督学习/决策树（Decision Tree）  菜鸟教程.md",
+    "Clippings/监督学习/回归模型评估  菜鸟教程.md",
+    "Clippings/监督学习/逻辑回归（Logistic Regression）  菜鸟教程.md",
+    "Clippings/监督学习/多项式回归  菜鸟教程.md",
+    "Clippings/无监督学习/无监督学习 – 降维  菜鸟教程.md",
+    "Clippings/监督学习",
+    "Clippings/无监督学习/无监督学习 – 聚类  菜鸟教程.md",
+    "Clippings/无监督学习",
+    "Clippings/监督学习/线性回归 (Linear Regression)  菜鸟教程.md",
     "Clippings/前向传播与反向传播  菜鸟教程.md",
     "Clippings/神经网络的基本结构  菜鸟教程.md",
-    "Clippings/机器学习算法  菜鸟教程.md",
-    "Clippings/多元线性回归  菜鸟教程.md",
+    "Clippings/监督学习/机器学习算法  菜鸟教程.md",
+    "Clippings/监督学习/多元线性回归  菜鸟教程.md",
     "Clippings",
-    "笔记/特征选择完全指南 — 通俗总结.md",
-    "笔记/特征选择方法速查.md",
-    "笔记/特征选择完全指南.md",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview2.pdf",
     "笔记",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（下）/(9)在线学习.pdf",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(1)线性回归、logistic回归和一般回归.pdf",
-    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(4)支持向量机SVM（下）.pdf",
-    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(3)支持向量机SVM（上）.pdf",
-    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(2)判别模型、生成模型与朴素贝叶斯方法.pdf"
+    "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程个人学习笔记（上）/(4)支持向量机SVM（下）.pdf"
   ]
 }
