@@ -2,8 +2,9 @@
   "tabManagerState": {
     "openTabs": [
       {
+        "draftModel": "haiku",
         "tabId": "tab-1778673415460-dwbym0d",
-        "conversationId": "conv-1779278400435-ft14arc8q"
+        "conversationId": null
       }
     ],
     "activeTabId": "tab-1778673415460-dwbym0d"
