@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d85116fed6371d61",
+        "id": "a2eeb6c4a80bb379",
         "type": "tabs",
         "children": [
           {
-            "id": "8ec19883d726a51e",
+            "id": "9d8abef34b87b81d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -199,11 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b2a54b5cac74385",
+  "active": "b978b102bd02e553",
   "lastOpenFiles": [
     "数据处理与统计总结.md",
-    "无监督学习总结.md",
     "监督学习总结.md",
+    "无监督学习总结.md",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview.pdf",
     "Clippings/数据处理与统计/过拟合、欠拟合、偏差与方差  菜鸟教程.md",
     "Clippings/数据处理与统计/损失函数与梯度  菜鸟教程.md",
