@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "选课111.md",
+                "file": "选课222.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "选课111"
+              "title": "选课222"
             }
           }
         ],
@@ -223,8 +223,9 @@
   },
   "active": "74958ec264ee5264",
   "lastOpenFiles": [
-    "选课.md",
     "选课111.md",
+    "选课222.md",
+    "选课.md",
     "无监督学习总结.md",
     "数据处理与统计总结.md",
     "监督学习总结.md",
@@ -251,7 +252,6 @@
     "Clippings/监督学习/多项式回归  菜鸟教程.md",
     "Clippings/无监督学习/无监督学习 – 降维  菜鸟教程.md",
     "Clippings/监督学习",
-    "Clippings/无监督学习/无监督学习 – 聚类  菜鸟教程.md",
     "Clippings/无监督学习",
     "Clippings",
     "Stanford Universtiy Machine Learning(含学习笔记和原始讲义).rar Folder/斯坦福大学机器学习课程原始讲义/cs229-Convex Optimization Overview2.pdf",
